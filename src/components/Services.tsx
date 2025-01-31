@@ -3,7 +3,7 @@ import {
   Shield,
   Building,
   Briefcase,
-  Wall,
+  Blocks,
 } from "lucide-react";
 
 const Services = () => {
@@ -34,7 +34,7 @@ const Services = () => {
     },
     {
       title: "Brandschutzlösungen",
-      icon: Wall,
+      icon: Blocks,
       description:
         "Innovative und maßgeschneiderte Lösungen für alle Anforderungen des baulichen Brandschutzes.",
     },
